@@ -1,4 +1,4 @@
-# AccuRanker API wrapper
+# ABs AccuRanker API wrapper
 
 ![.NET 2.2 CD](https://github.com/dentsudatalab/accuranker/workflows/.NET%202.2%20CD/badge.svg) ![.NET 2.2 CI](https://github.com/dentsudatalab/accuranker/workflows/.NET%202.2%20CI/badge.svg) ![CodeQL](https://github.com/Dentsudatalab/AccuRanker/workflows/CodeQL/badge.svg)
 
